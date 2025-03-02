@@ -114,9 +114,6 @@ sections:
       opacity: 100
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
