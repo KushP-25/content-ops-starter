@@ -29,7 +29,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/avatar6.svg
+      url: /images/EDEM.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
