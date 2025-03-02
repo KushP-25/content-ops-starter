@@ -113,10 +113,7 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
   - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
+    images: []
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
