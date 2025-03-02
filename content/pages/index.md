@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: DR. EDEM TETTEH
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes here
     text: "With a diverse background as a global agent, I possess a nuanced understanding of your students' needs. Having resided, studied, and worked across continents, I offer a distinctive perspective that encompasses a multifaceted global educational outlook. For inquiries, please reach out to me at\_[educlive@gmail.com]().\n\n"
