@@ -112,16 +112,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-  - subtitle: Award winning enterprises trust us
-    images: []
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
@@ -141,6 +131,16 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+  - subtitle: Award winning enterprises trust us
+    images: []
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
